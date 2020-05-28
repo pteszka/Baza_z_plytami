@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BAZA>
+    <ALBUM>
+        <ARTIST TYPE="SOLO">Sophie</ARTIST>
+        <TITLE>Oil of Every Pearl's Un-Insides</TITLE>
+        <RELEASED>15-06-2018</RELEASED>
+        <TRACK_LIST LENGTH="39:55">
+            <SONG>It's Okay to Cry</SONG>
+            <SONG>Ponyboy</SONG>
+            <SONG>Faceshopping</SONG>
+            <SONG>Is It Cold in the Water?</SONG>
+            <SONG>Infatuation</SONG>
+            <SONG>Not Okay</SONG>
+            <SONG>Pretending</SONG>
+            <SONG>Immaterial</SONG>
+            <SONG>Whole New World / Pretend World</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Pop</PRIMARY>
+            <PRIMARY>Industrial</PRIMARY>
+            <SECONDARY>Art Pop</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+    <ALBUM>
+        <ARTIST TYPE="BAND">100 gecs</ARTIST>
+        <TITLE>1000 gecs</TITLE>
+        <RELEASED>31-05-2019</RELEASED>
+        <TRACK_LIST LENGTH="23:07">
+            <SONG>745 sticky</SONG>
+            <SONG>money machine</SONG>
+            <SONG>800db cloud</SONG>
+            <SONG>I Need Help Immediately</SONG>
+            <SONG>stupid horse</SONG>
+            <SONG>xXXi_wud_nvrstøp_ÜXXx</SONG>
+            <SONG>ringtone</SONG>
+            <SONG>gecgecgec</SONG>
+            <SONG>hand crushed by a mallet</SONG>
+            <SONG>gec 2 U</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Bubblegum Bass</PRIMARY>
+            <PRIMARY>Experimental Pop</PRIMARY>
+            <SECONDARY>Electropop</SECONDARY>
+            <SECONDARY>Emo</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+    <ALBUM>
+        <ARTIST TYPE="SOLO">Alex Cameron</ARTIST>
+        <TITLE>Forced Witness</TITLE>
+        <RELEASED>08-08-2017</RELEASED>
+        <TRACK_LIST LENGTH="41:15">
+            <SONG>Candy May</SONG>
+            <SONG>Country Figs</SONG>
+            <SONG>Runnin' Outta Luck</SONG>
+            <SONG>Stranger's Kiss</SONG>
+            <SONG>True Lies</SONG>
+            <SONG>Studmuffin96</SONG>
+            <SONG>The Chihuahua</SONG>
+            <SONG>The Hacienda</SONG>
+            <SONG>Marlon Brando</SONG>
+            <SONG>Politics of Love</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Synthpop</PRIMARY>
+            <SECONDARY>Heartland Rock</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+    <ALBUM>
+        <ARTIST TYPE="SOLO">Yves Tumor</ARTIST>
+        <TITLE>Safe In The Hands of Lova</TITLE>
+        <RELEASED>05-08-2018</RELEASED>
+        <TRACK_LIST LENGTH="41:15">
+            <SONG>Faith in Nothing Except in Salvation</SONG>
+            <SONG>Economy of Freedom</SONG>
+            <SONG>Honesty</SONG>
+            <SONG>Noid</SONG>
+            <SONG>Licking an Orchid</SONG>
+            <SONG>Lifetime</SONG>
+            <SONG>Hope in Suffering (Escaping Oblivion &amp; Overcoming Powerlessness)</SONG>
+            <SONG>Recognizing the Enemy</SONG>
+            <SONG>All the Love We Have Now</SONG>
+            <SONG>Let the Lioness in You Flow Freely</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Post Industrial</PRIMARY>
+            <PRIMARY>Art Pop</PRIMARY>
+            <SECONDARY>Trip Hop</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+
+    <ALBUM>
+        <ARTIST TYPE="BAND">Black Dresses</ARTIST>
+        <TITLE>Peaceful as Hell</TITLE>
+        <RELEASED>13-04-2020</RELEASED>
+        <TRACK_LIST LENGTH="46:33">
+            <SONG>Left Arm of Life</SONG>
+            <SONG>Damage Suppressor</SONG>
+            <SONG>Angel Hair</SONG>
+            <SONG>Beautiful Friendship</SONG>
+            <SONG>I'm a Freak Cause I'm Always Freaked Out</SONG>
+            <SONG>Bliss and Stupidity</SONG>
+            <SONG>Mirrorgirl</SONG>
+            <SONG>Maybe This World Is Another Planet's Hell?</SONG>
+            <SONG>Scared 2 Death</SONG>
+            <SONG>Express Yourself</SONG>
+            <SONG>Sharp Halo</SONG>
+            <SONG>Impossible Dream</SONG>
+            <SONG>Please Be Nice</SONG>
+            <SONG>Creep U</SONG>
+            <SONG>666</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Industrial</PRIMARY>
+            <PRIMARY>Noise Pop</PRIMARY>
+            <SECONDARY>Glitch Pop</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+
+    <ALBUM>
+        <ARTIST TYPE="SOLO">Alex Cameron</ARTIST>
+        <TITLE>Miami Memory</TITLE>
+        <RELEASED>13-09-2019</RELEASED>
+        <TRACK_LIST LENGTH="38:38">
+            <SONG>Stepdad</SONG>
+            <SONG>Miami Memory</SONG>
+            <SONG>Far From Born Again</SONG>
+            <SONG>Gaslight</SONG>
+            <SONG>Bad for the Boys</SONG>
+            <SONG>End Is Nigh</SONG>
+            <SONG>PC With Me</SONG>
+            <SONG>Divorce</SONG>
+            <SONG>Other Ladies</SONG>
+            <SONG>Too Far</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Synth Pop</PRIMARY>
+            <SECONDARY>Pop Rock</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+
+    <ALBUM>
+        <ARTIST TYPE="SOLO">Ka</ARTIST>
+        <TITLE>Descendants of Cain</TITLE>
+        <RELEASED>01-05-2020</RELEASED>
+        <TRACK_LIST LENGTH="32:55">
+            <SONG>Every Now and Then</SONG>
+            <SONG>Unto the Dust</SONG>
+            <SONG>Patron Saints</SONG>
+            <SONG>My Brother's Keeper</SONG>
+            <SONG>Solitude of Enoch</SONG>
+            <SONG>The Eye of a Needle</SONG>
+            <SONG>Pray</SONG>
+            <SONG>Land of Nod</SONG>
+            <SONG>Sins of the Father</SONG>
+            <SONG>Old Justice</SONG>
+            <SONG>I Love (Mimi, Moms, Kev)</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>East Coast Hip Hop</PRIMARY>
+            <SECONDARY>Conscious Hip Hop</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+
+    <ALBUM>
+        <ARTIST TYPE="SOLO">ROSALIA</ARTIST>
+        <TITLE>El Mal Querer</TITLE>
+        <RELEASED>19-01-2018</RELEASED>
+        <TRACK_LIST LENGTH="30:14">
+            <SONG>Malamente (Cap.1: Augurio)</SONG>
+            <SONG>Que no salga la luna (Cap.2: Boda)</SONG>
+            <SONG>Pienso en tu mirá (Cap.3: Celos)</SONG>
+            <SONG>De aquí no sales (Cap.4: Disputa)</SONG>
+            <SONG>Reniego (Cap.5: Lamento)</SONG>
+            <SONG>Preso (Cap.6: Clausura)</SONG>
+            <SONG>Bagdad (Cap.7: Liturgia)</SONG>
+            <SONG>Di mi nombre (Cap.8: Éxtasis)</SONG>
+            <SONG>Nana (Cap.9: Concepción)</SONG>
+            <SONG>Maldición (Cap.10: Cordura)</SONG>
+            <SONG>A ningún hombre (Cap.11: Poder)</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Flamenco Pop</PRIMARY>
+            <SECONDARY>R&amp;B</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+    <ALBUM>
+        <ARTIST TYPE="ALBUM">Triángulo de Amor Bizarro</ARTIST>
+        <TITLE>Triángulo de Amor Bizarro</TITLE>
+        <RELEASED>20-03-2020</RELEASED>
+        <TRACK_LIST LENGTH="30:14">
+            <SONG>Ruptura</SONG>
+            <SONG>No eres tú</SONG>
+            <SONG>Vigilantes del espejo</SONG>
+            <SONG>Canción de la fama</SONG>
+            <SONG>Fukushima</SONG>
+            <SONG>ASMR para ti</SONG>
+            <SONG>Acosadores</SONG>
+            <SONG>SYF paga</SONG>
+            <SONG>Calígula 2025</SONG>
+            <SONG>Folia de las apariciones</SONG>
+            <SONG>Cura mi corazón</SONG>
+            <SONG>Los golpes olvidados</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Noise Pop</PRIMARY>
+            <PRIMARY>Shoegaze</PRIMARY>
+            <SECONDARY>Indie Rock</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+    <ALBUM>
+        <ARTIST TYPE="ALBUM">Triángulo de Amor Bizarro</ARTIST>
+        <TITLE>Triángulo de Amor Bizarro</TITLE>
+        <RELEASED>20-03-2020</RELEASED>
+        <TRACK_LIST LENGTH="30:14">
+            <SONG>Ruptura</SONG>
+            <SONG>No eres tú</SONG>
+            <SONG>Vigilantes del espejo</SONG>
+            <SONG>Canción de la fama</SONG>
+            <SONG>Fukushima</SONG>
+            <SONG>ASMR para ti</SONG>
+            <SONG>Acosadores</SONG>
+            <SONG>SYF paga</SONG>
+            <SONG>Calígula 2025</SONG>
+            <SONG>Folia de las apariciones</SONG>
+            <SONG>Cura mi corazón</SONG>
+            <SONG>Los golpes olvidados</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Noise Pop</PRIMARY>
+            <PRIMARY>Shoegaze</PRIMARY>
+            <SECONDARY>Indie Rock</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+
+
+    <LABEL>
+    </LABEL>
+</BAZA>
