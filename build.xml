@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <BAZA>
-    <ALBUM>
+
+    <ALBUM LABEL_ID="l631074">
         <ARTIST TYPE="SOLO">Sophie</ARTIST>
         <TITLE>Oil of Every Pearl's Un-Insides</TITLE>
         <RELEASED>15-06-2018</RELEASED>
@@ -18,12 +19,12 @@
         </TRACK_LIST>
         <GENRES>
             <PRIMARY>Pop</PRIMARY>
-            <PRIMARY>Industrial</PRIMARY>
-            <SECONDARY>Art Pop</SECONDARY>
+            <PRIMARY>Bubblegum Bass</PRIMARY>
+            <SECONDARY>Industrial</SECONDARY>
         </GENRES>
     </ALBUM>
 
-    <ALBUM>
+    <ALBUM LABEL_ID="l56916">
         <ARTIST TYPE="BAND">100 gecs</ARTIST>
         <TITLE>1000 gecs</TITLE>
         <RELEASED>31-05-2019</RELEASED>
@@ -41,13 +42,12 @@
         </TRACK_LIST>
         <GENRES>
             <PRIMARY>Bubblegum Bass</PRIMARY>
-            <PRIMARY>Experimental Pop</PRIMARY>
+            <PRIMARY>Pop</PRIMARY>
             <SECONDARY>Electropop</SECONDARY>
-            <SECONDARY>Emo</SECONDARY>
         </GENRES>
     </ALBUM>
 
-    <ALBUM>
+    <ALBUM LABEL_ID="l213432">
         <ARTIST TYPE="SOLO">Alex Cameron</ARTIST>
         <TITLE>Forced Witness</TITLE>
         <RELEASED>08-08-2017</RELEASED>
@@ -64,12 +64,12 @@
             <SONG>Politics of Love</SONG>
         </TRACK_LIST>
         <GENRES>
-            <PRIMARY>Synthpop</PRIMARY>
+            <PRIMARY>Synth Pop</PRIMARY>
             <SECONDARY>Heartland Rock</SECONDARY>
         </GENRES>
     </ALBUM>
 
-    <ALBUM>
+    <ALBUM LABEL_ID="l21211">
         <ARTIST TYPE="SOLO">Yves Tumor</ARTIST>
         <TITLE>Safe In The Hands of Lova</TITLE>
         <RELEASED>05-08-2018</RELEASED>
@@ -86,14 +86,13 @@
             <SONG>Let the Lioness in You Flow Freely</SONG>
         </TRACK_LIST>
         <GENRES>
-            <PRIMARY>Post Industrial</PRIMARY>
-            <PRIMARY>Art Pop</PRIMARY>
+            <PRIMARY>Industrial</PRIMARY>
+            <PRIMARY>Pop</PRIMARY>
             <SECONDARY>Trip Hop</SECONDARY>
         </GENRES>
     </ALBUM>
 
-
-    <ALBUM>
+    <ALBUM LABEL_ID="l21211">
         <ARTIST TYPE="BAND">Black Dresses</ARTIST>
         <TITLE>Peaceful as Hell</TITLE>
         <RELEASED>13-04-2020</RELEASED>
@@ -116,13 +115,12 @@
         </TRACK_LIST>
         <GENRES>
             <PRIMARY>Industrial</PRIMARY>
-            <PRIMARY>Noise Pop</PRIMARY>
-            <SECONDARY>Glitch Pop</SECONDARY>
+            <PRIMARY>Noise</PRIMARY>
+            <SECONDARY>Glitch</SECONDARY>
         </GENRES>
     </ALBUM>
 
-
-    <ALBUM>
+    <ALBUM LABEL_ID="l213432">
         <ARTIST TYPE="SOLO">Alex Cameron</ARTIST>
         <TITLE>Miami Memory</TITLE>
         <RELEASED>13-09-2019</RELEASED>
@@ -144,8 +142,7 @@
         </GENRES>
     </ALBUM>
 
-
-    <ALBUM>
+    <ALBUM LABEL_ID="l25487">
         <ARTIST TYPE="SOLO">Ka</ARTIST>
         <TITLE>Descendants of Cain</TITLE>
         <RELEASED>01-05-2020</RELEASED>
@@ -164,12 +161,10 @@
         </TRACK_LIST>
         <GENRES>
             <PRIMARY>East Coast Hip Hop</PRIMARY>
-            <SECONDARY>Conscious Hip Hop</SECONDARY>
         </GENRES>
     </ALBUM>
 
-
-    <ALBUM>
+    <ALBUM LABEL_ID="l25487">
         <ARTIST TYPE="SOLO">ROSALIA</ARTIST>
         <TITLE>El Mal Querer</TITLE>
         <RELEASED>19-01-2018</RELEASED>
@@ -187,13 +182,14 @@
             <SONG>A ningún hombre (Cap.11: Poder)</SONG>
         </TRACK_LIST>
         <GENRES>
-            <PRIMARY>Flamenco Pop</PRIMARY>
+            <PRIMARY>Pop</PRIMARY>
             <SECONDARY>R&amp;B</SECONDARY>
+            <SECONDARY>Flamenco</SECONDARY>
         </GENRES>
     </ALBUM>
 
-    <ALBUM>
-        <ARTIST TYPE="ALBUM">Triángulo de Amor Bizarro</ARTIST>
+    <ALBUM LABEL_ID="l21211">
+        <ARTIST TYPE="BAND">Triángulo de Amor Bizarro</ARTIST>
         <TITLE>Triángulo de Amor Bizarro</TITLE>
         <RELEASED>20-03-2020</RELEASED>
         <TRACK_LIST LENGTH="30:14">
@@ -211,39 +207,93 @@
             <SONG>Los golpes olvidados</SONG>
         </TRACK_LIST>
         <GENRES>
-            <PRIMARY>Noise Pop</PRIMARY>
+            <PRIMARY>Pop</PRIMARY>
             <PRIMARY>Shoegaze</PRIMARY>
             <SECONDARY>Indie Rock</SECONDARY>
         </GENRES>
     </ALBUM>
 
-    <ALBUM>
-        <ARTIST TYPE="ALBUM">Triángulo de Amor Bizarro</ARTIST>
-        <TITLE>Triángulo de Amor Bizarro</TITLE>
-        <RELEASED>20-03-2020</RELEASED>
-        <TRACK_LIST LENGTH="30:14">
-            <SONG>Ruptura</SONG>
-            <SONG>No eres tú</SONG>
-            <SONG>Vigilantes del espejo</SONG>
-            <SONG>Canción de la fama</SONG>
-            <SONG>Fukushima</SONG>
-            <SONG>ASMR para ti</SONG>
-            <SONG>Acosadores</SONG>
-            <SONG>SYF paga</SONG>
-            <SONG>Calígula 2025</SONG>
-            <SONG>Folia de las apariciones</SONG>
-            <SONG>Cura mi corazón</SONG>
-            <SONG>Los golpes olvidados</SONG>
+    <ALBUM LABEL_ID="l213432">
+        <ARTIST TYPE="SOLO">serpentwithfeet</ARTIST>
+        <TITLE>Soil</TITLE>
+        <RELEASED>08-06-2018</RELEASED>
+        <TRACK_LIST LENGTH="39:47">
+            <SONG>Whisper</SONG>
+            <SONG>Messy</SONG>
+            <SONG>Wrong Tree</SONG>
+            <SONG>Fragrant</SONG>
+            <SONG>Mourning Song</SONG>
+            <SONG>Cherubim</SONG>
+            <SONG>Seedless</SONG>
+            <SONG>Invoice</SONG>
+            <SONG>Waft</SONG>
+            <SONG>Slow Syrup</SONG>
+            <SONG>Bless Ur Heart</SONG>
         </TRACK_LIST>
         <GENRES>
-            <PRIMARY>Noise Pop</PRIMARY>
-            <PRIMARY>Shoegaze</PRIMARY>
-            <SECONDARY>Indie Rock</SECONDARY>
+            <PRIMARY>R&amp;B</PRIMARY>
+            <PRIMARY>Pop</PRIMARY>
+            <SECONDARY>Ambient</SECONDARY>
+        </GENRES>
+    </ALBUM>
+
+    <ALBUM LABEL_ID="l21211">
+        <ARTIST TYPE="SOLO">Oneohtrix Point Never</ARTIST>
+        <TITLE>R Plus Seven</TITLE>
+        <RELEASED>30-09-2013</RELEASED>
+        <TRACK_LIST LENGTH="42:58">
+            <SONG>Boring Angel</SONG>
+            <SONG>Americans</SONG>
+            <SONG>He She</SONG>
+            <SONG>Inside World</SONG>
+            <SONG>Zebra</SONG>
+            <SONG>Along</SONG>
+            <SONG>Problem Areas</SONG>
+            <SONG>Cryo</SONG>
+            <SONG>Still Life</SONG>
+            <SONG>Chrome Country</SONG>
+        </TRACK_LIST>
+        <GENRES>
+            <PRIMARY>Electronic</PRIMARY>
+            <PRIMARY>Ambient</PRIMARY>
+            <SECONDARY>Glitch</SECONDARY>
         </GENRES>
     </ALBUM>
 
 
-
-    <LABEL>
+    <LABEL ID="l25487">
+        <NAME>Sony Music</NAME>
+        <FORMED>01-01-1991</FORMED>
+        <WEBSITE>http://www.sonymusic.com/</WEBSITE>
+        <CONTACT> pl_kontakt@sonymusic.com</CONTACT>
     </LABEL>
+
+    <LABEL ID="l631074">
+        <NAME>PC Music</NAME>
+        <FORMED>01-06-2013</FORMED>
+        <WEBSITE>http://www.pcmusic.info/</WEBSITE>
+        <CONTACT>hello@pcmusic.info</CONTACT>
+    </LABEL>
+
+    <LABEL ID="l56916">
+        <NAME>Mad Decent</NAME>
+        <FORMED>01-01-2006</FORMED>
+        <WEBSITE>http://www.maddecent.com/</WEBSITE>
+        <CONTACT>contact@maddecent.com</CONTACT>
+    </LABEL>
+
+    <LABEL ID="l213432">
+        <NAME>Secretly Canadian</NAME>
+        <FORMED>01-01-1996</FORMED>
+        <WEBSITE>http://www.secretlycanadian.com/</WEBSITE>
+        <CONTACT>secretlycanadian@gmail.com</CONTACT>
+    </LABEL>
+
+    <LABEL ID="l21211">
+        <NAME>Warp</NAME>
+        <FORMED>01-01-1989</FORMED>
+        <WEBSITE>https://warp.net/</WEBSITE>
+        <CONTACT>warp@gmail.com</CONTACT>
+    </LABEL>
+
 </BAZA>
