@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- definition of simple elements -->
+    <xs:simpleType name="titleType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="releasedType">
+        <xs:restriction base="xs:date"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="songType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="primaryType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="secondaryType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="formedType">
+        <xs:restriction base="xs:date"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="websiteType">
+        <xs:restriction base="xs:anyURI"/>
+    </xs:simpleType>
+
+    <xs:simpleType name="contactType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value=".+@.+\.[a-zA-Z]{1,6}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <!-- definition of simple elements: atr -->
+
+    <xs:simpleType name="idType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="l[0-9]+"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="typeType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="SOLO|BAND"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="lengthType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]{1,4}:[0-9]{2}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <!-- definition of complex elements -->
+
+    <xs:complexType name="artistType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="TYPE" type="typeType" use="required"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <xs:complexType name="track_listType">
+        <xs:sequence>
+            <xs:element name="SONG" type="songType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="LENGTH" type="lengthType" use="optional"/>
+    </xs:complexType>
+
+    <xs:complexType name="genresType">
+        <xs:sequence>
+            <xs:element name="PRIMARY" type="primaryType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="SECONDARY" type="secondaryType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="albumType">
+        <xs:sequence>
+            <xs:element name="ARTIST" type="artistType"/>
+            <xs:element name="TITLE" type="titleType"/>
+            <xs:element name="RELEASED" type="releasedType"/>
+            <xs:element name="TRACK_LIST" type="track_listType"/>
+            <xs:element name="GENRES" type="genresType"/>
+        </xs:sequence>
+        <xs:attribute name="PUBLISHER" type="idType" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="labelType">
+        <xs:sequence>
+            <xs:element name="NAME" type="nameType"/>
+            <xs:element name="FORMED" type="formedType"/>
+            <xs:element name="WEBSITE" type="websiteType"/>
+            <xs:element name="CONTACT" type="contactType"/>
+        </xs:sequence>
+        <xs:attribute name="LAB_ID" type="idType" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="bazaType">
+        <xs:sequence>
+            <xs:element name="ALBUM" type="albumType" maxOccurs="unbounded"/>
+            <xs:element name="LABEL" type="labelType" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:element name="BAZA" type="bazaType"/>
+</xs:schema>

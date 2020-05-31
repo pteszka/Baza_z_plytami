@@ -5,7 +5,7 @@
     <ALBUM PUBLISHER="l631074">
         <ARTIST TYPE="SOLO">Sophie</ARTIST>
         <TITLE>Oil of Every Pearl's Un-Insides</TITLE>
-        <RELEASED>15-06-2018</RELEASED>
+        <RELEASED>2018-06-15</RELEASED>
         <TRACK_LIST LENGTH="39:55">
             <SONG>It's Okay to Cry</SONG>
             <SONG>Ponyboy</SONG>
@@ -27,7 +27,7 @@
     <ALBUM PUBLISHER="l56916">
         <ARTIST TYPE="BAND">100 gecs</ARTIST>
         <TITLE>1000 gecs</TITLE>
-        <RELEASED>31-05-2019</RELEASED>
+        <RELEASED>2019-05-31</RELEASED>
         <TRACK_LIST LENGTH="23:07">
             <SONG>745 sticky</SONG>
             <SONG>money machine</SONG>
@@ -50,7 +50,7 @@
     <ALBUM PUBLISHER="l213432">
         <ARTIST TYPE="SOLO">Alex Cameron</ARTIST>
         <TITLE>Forced Witness</TITLE>
-        <RELEASED>08-08-2017</RELEASED>
+        <RELEASED>2017-08-08</RELEASED>
         <TRACK_LIST LENGTH="41:15">
             <SONG>Candy May</SONG>
             <SONG>Country Figs</SONG>
@@ -72,7 +72,7 @@
     <ALBUM PUBLISHER="l21211">
         <ARTIST TYPE="SOLO">Yves Tumor</ARTIST>
         <TITLE>Safe In The Hands of Lova</TITLE>
-        <RELEASED>05-08-2018</RELEASED>
+        <RELEASED>2018-08-05</RELEASED>
         <TRACK_LIST LENGTH="41:15">
             <SONG>Faith in Nothing Except in Salvation</SONG>
             <SONG>Economy of Freedom</SONG>
@@ -95,7 +95,7 @@
     <ALBUM PUBLISHER="l21211">
         <ARTIST TYPE="BAND">Black Dresses</ARTIST>
         <TITLE>Peaceful as Hell</TITLE>
-        <RELEASED>13-04-2020</RELEASED>
+        <RELEASED>2020-04-13</RELEASED>
         <TRACK_LIST LENGTH="46:33">
             <SONG>Left Arm of Life</SONG>
             <SONG>Damage Suppressor</SONG>
@@ -123,7 +123,7 @@
     <ALBUM PUBLISHER="l213432">
         <ARTIST TYPE="SOLO">Alex Cameron</ARTIST>
         <TITLE>Miami Memory</TITLE>
-        <RELEASED>13-09-2019</RELEASED>
+        <RELEASED>2019-09-13</RELEASED>
         <TRACK_LIST LENGTH="38:38">
             <SONG>Stepdad</SONG>
             <SONG>Miami Memory</SONG>
@@ -145,7 +145,7 @@
     <ALBUM PUBLISHER="l25487">
         <ARTIST TYPE="SOLO">Ka</ARTIST>
         <TITLE>Descendants of Cain</TITLE>
-        <RELEASED>01-05-2020</RELEASED>
+        <RELEASED>2020-05-01</RELEASED>
         <TRACK_LIST LENGTH="32:55">
             <SONG>Every Now and Then</SONG>
             <SONG>Unto the Dust</SONG>
@@ -167,7 +167,7 @@
     <ALBUM PUBLISHER="l25487">
         <ARTIST TYPE="SOLO">ROSALIA</ARTIST>
         <TITLE>El Mal Querer</TITLE>
-        <RELEASED>19-01-2018</RELEASED>
+        <RELEASED>2018-01-19</RELEASED>
         <TRACK_LIST LENGTH="30:14">
             <SONG>Malamente (Cap.1: Augurio)</SONG>
             <SONG>Que no salga la luna (Cap.2: Boda)</SONG>
@@ -191,7 +191,7 @@
     <ALBUM PUBLISHER="l21211">
         <ARTIST TYPE="BAND">Triángulo de Amor Bizarro</ARTIST>
         <TITLE>Triángulo de Amor Bizarro</TITLE>
-        <RELEASED>20-03-2020</RELEASED>
+        <RELEASED>2020-03-20</RELEASED>
         <TRACK_LIST LENGTH="30:14">
             <SONG>Ruptura</SONG>
             <SONG>No eres tú</SONG>
@@ -216,7 +216,7 @@
     <ALBUM PUBLISHER="l213432">
         <ARTIST TYPE="SOLO">serpentwithfeet</ARTIST>
         <TITLE>Soil</TITLE>
-        <RELEASED>08-06-2018</RELEASED>
+        <RELEASED>2018-06-08</RELEASED>
         <TRACK_LIST LENGTH="39:47">
             <SONG>Whisper</SONG>
             <SONG>Messy</SONG>
@@ -240,7 +240,7 @@
     <ALBUM PUBLISHER="l21211">
         <ARTIST TYPE="SOLO">Oneohtrix Point Never</ARTIST>
         <TITLE>R Plus Seven</TITLE>
-        <RELEASED>30-09-2013</RELEASED>
+        <RELEASED>2013-09-30</RELEASED>
         <TRACK_LIST LENGTH="42:58">
             <SONG>Boring Angel</SONG>
             <SONG>Americans</SONG>
@@ -263,35 +263,35 @@
 
     <LABEL LAB_ID="l25487">
         <NAME>Sony Music</NAME>
-        <FORMED>01-01-1991</FORMED>
+        <FORMED>1991-01-01</FORMED>
         <WEBSITE>http://www.sonymusic.com/</WEBSITE>
         <CONTACT> pl_kontakt@sonymusic.com</CONTACT>
     </LABEL>
 
     <LABEL LAB_ID="l631074">
         <NAME>PC Music</NAME>
-        <FORMED>01-06-2013</FORMED>
+        <FORMED>2013-06-01</FORMED>
         <WEBSITE>http://www.pcmusic.info/</WEBSITE>
         <CONTACT>hello@pcmusic.info</CONTACT>
     </LABEL>
 
     <LABEL LAB_ID="l56916">
         <NAME>Mad Decent</NAME>
-        <FORMED>01-01-2006</FORMED>
+        <FORMED>2006-01-01</FORMED>
         <WEBSITE>http://www.maddecent.com/</WEBSITE>
         <CONTACT>contact@maddecent.com</CONTACT>
     </LABEL>
 
     <LABEL LAB_ID="l213432">
         <NAME>Secretly Canadian</NAME>
-        <FORMED>01-01-1996</FORMED>
+        <FORMED>1996-01-01</FORMED>
         <WEBSITE>http://www.secretlycanadian.com/</WEBSITE>
         <CONTACT>secretlycanadian@gmail.com</CONTACT>
     </LABEL>
 
     <LABEL LAB_ID="l21211">
         <NAME>Warp</NAME>
-        <FORMED>01-01-1989</FORMED>
+        <FORMED>1989-01-01</FORMED>
         <WEBSITE>https://warp.net/</WEBSITE>
         <CONTACT>warp@gmail.com</CONTACT>
     </LABEL>
