@@ -109,5 +109,15 @@
         </xs:sequence>
     </xs:complexType>
     
-    <xs:element name="BAZA" type="bazaType"/>
+    <xs:element name="BAZA" type="bazaType">
+        <xs:key name="id_key">
+            <xs:selector xpath="BAZA/LABEL" />
+            <xs:field xpath="@LAB_ID" />
+        </xs:key>
+
+        <xs:keyref name="id_keyref" refer="id_key">
+            <xs:selector xpath="BAZA/ALBUM" />
+            <xs:field xpath="@PUBLISHER" />
+        </xs:keyref>
+    </xs:element>
 </xs:schema>
