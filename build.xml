@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE BAZA SYSTEM "structure.dtd">
+<!--<!DOCTYPE BAZA SYSTEM "structure.dtd">-->
+<!--<?xml-stylesheet href="build.xsl" ?>-->
 
 <BAZA>
     <ALBUM PUBLISHER="l631074">
