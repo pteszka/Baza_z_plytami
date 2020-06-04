@@ -38,7 +38,7 @@ p.secondary {
 }
 
 
-h2 {
+h2, h1 {
     text-decoration: underline;
     text-align: center;
 }

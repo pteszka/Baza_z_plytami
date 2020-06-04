@@ -7,6 +7,7 @@
                 <link rel="stylesheet" type="text/css" href="style.css" />
             </head>
             <body>
+                <h1>https://github.com/pteszka/Baza_z_plytami/</h1>
                 <div class="center">
                 <h2 class="albumsTitle">ALBUMS</h2>
                     <table id="albums">
