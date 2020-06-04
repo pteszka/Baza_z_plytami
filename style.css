@@ -1,0 +1,54 @@
+body {
+    background: lightgoldenrodyellow;
+    font-style: normal;
+    font-family: Verdana, serif;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+p.title {
+    font-weight: bold;
+}
+
+p.genres {
+    font-weight: bold;
+}
+
+p.trackList {
+    font-weight: bold;
+}
+
+div.album {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.primary {
+    font-weight: bold;
+    font-style: italic;
+}
+
+p.secondary {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    width: 320px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: aquamarine;
+}
